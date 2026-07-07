@@ -3,7 +3,7 @@
 <h1>Hi 👋, I'm Yanis Monzón</h1>
 <h3>Ingeniera en Informática | Fullstack Developer</h3>
 
-🎓 Cursando Maestría en Informática (UNET) • 🌱 Aprendiendo inglés<br/>
+🎓 Cursando Maestría en Informática (UNET) • 🌱 English level A1<br/>
 📫 <b>yanismonzon65@gmail.com</b>
 
 <br clear="right"/>
@@ -29,15 +29,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
 </p>
 
----
-
-<h3 align="center">🚀 Proyectos</h3>
-
-- 🛒 <b>Web para Bodegón Peppers</b> — Tienda web para compra de rubros alimenticios y de higiene <i>(tesis de grado, IUFRONT)</i>
-- 🏋️ <b>App de gestión para gimnasio</b> — Gestión y control de clientes de bailoterapia <i>(proyecto final, UPTAIET)</i>
-- 🏛️ <b>Sistema de gestión municipal</b> — Frontend con React + TypeScript <i>(en desarrollo)</i>
-
----
 
 <h3 align="center">📊 GitHub Stats</h3>
 
