@@ -7,8 +7,6 @@
 🎓 Cursando Maestría en Informática (UNET) • 🌱 English level A1<br/>
 📫 <b>yanismonzon65@gmail.com</b>
 
-<img src="https://komarev.com/ghpvc/?username=monzonyanis65&color=blueviolet&style=flat-square&label=visitas" alt="contador de visitas" />
-
 <br clear="right"/>
 
 ---
