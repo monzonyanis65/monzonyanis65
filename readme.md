@@ -1,10 +1,13 @@
-<img align="right" src="gatito.gif" alt="gatito programando" width="180" />
-
 <h1>Hi 👋, I'm Yanis Monzón</h1>
-<h3>Ingeniera en Informática | Fullstack Developer</h3>
+
+<img align="right" src="gatito.gif" alt="gatito programando" width="170" />
+
+<a href="https://github.com/monzonyanis65"><img src="https://readme-typing-svg.demolab.com/?lines=Ingeniera+en+Inform%C3%A1tica;Fullstack+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL&font=Fira+Code&width=460&height=45&color=79C0FF&vCenter=true&pause=1000&size=22" alt="typing intro" /></a>
 
 🎓 Cursando Maestría en Informática (UNET) • 🌱 English level A1<br/>
 📫 <b>yanismonzon65@gmail.com</b>
+
+<img src="https://komarev.com/ghpvc/?username=monzonyanis65&color=blueviolet&style=flat-square&label=visitas" alt="contador de visitas" />
 
 <br clear="right"/>
 
@@ -30,13 +33,8 @@
 </p>
 
 
-<h3 align="center">📊 GitHub Stats</h3>
-
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=monzonyanis65&show_icons=true&theme=tokyonight&locale=es" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=monzonyanis65&layout=compact&theme=tokyonight&locale=es" alt="Top languages" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
 </p>
 
 ---
