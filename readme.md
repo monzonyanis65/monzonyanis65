@@ -33,8 +33,10 @@
 </p>
 
 
+<h3 align="center">📊 Lenguajes más usados</h3>
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=monzonyanis65&layout=compact&theme=tokyonight&locale=es&langs_count=8" alt="Top languages" />
 </p>
 
 ---
